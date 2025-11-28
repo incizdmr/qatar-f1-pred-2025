@@ -1,7 +1,6 @@
 # FastF1 cache
+fastf1_cache/
 *.sqlite
-fastf1_cache.sqlite
-cache/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
