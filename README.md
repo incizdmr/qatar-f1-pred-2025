@@ -1,6 +1,6 @@
 # F1 Qatar 2025 GP Prediction — Performance Modeling Using Weighted Z-Scores
 
-This project predicts driver performance for the 2025 Qatar Grand Prix using a custom z-score–based weighted performance index. It combines historical performance features (qualifying, race pace, sprint results, Qatar-track performance) into a single normalized score that ranks drivers and visualizes competitive insights.
+This project predicts driver performance for the 2025 Qatar Grand Prix using a custom weighted performance index based on z-score. It combines historical performance features (qualifying, race pace, sprint results, Qatar-track performance) into a single normalized score that ranks drivers and visualizes competitive insights.
 
 ---
 ## Main Insights
@@ -21,8 +21,6 @@ Python • pandas • numpy • matplotlib • seaborn • scikit-learn • Jupy
 data1.ipynb — Cleaning + feature engineering
 
 model.ipynb — Z-score weighting + scoring
-
-visual_insights.ipynb — Performance visualizations
 
 ---
 ## Results
