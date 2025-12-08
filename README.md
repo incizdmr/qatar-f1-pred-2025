@@ -46,9 +46,12 @@ However, at the Abu Dhabi GP, the following week, the top 3 was as follows:
 
 
 ## Evaluation
-Looking at the results of the overall season, I could argue that the z-score was not so far off, since this seasons top 3 were in my predicted top 5 list. Regardless of Norris not ranking in top 3 during the Qatar GP, the final 3 of this season had a place in my ranking list. Hamilton and Russell also were not far down the actual rankings of this season, where Russell ranked 4th and Hamilton 6th in the championship.  
+Looking at the results of the overall season, I could argue that the z-score was not so far off, since this seasons top 3 were in my predicted top 5 list. Regardless of Norris not ranking in top 3 during the Qatar GP, the final 3 of this season had a place in my ranking list. Hamilton and Russell were also not far down the actual rankings of this season, where Russell ranked 4th and Hamilton 6th in the championship.  
 
 This is not to say my z-score ran as expected since this was an estimation for the Qatar GP and not the whole season. If the Qatar GP went accordingly with my estimated ranking list, the Abu Dhabi GP wouldn't have taken place. 
+
+Some key takeaways from this initial project would be to gather more data to improve the model using an ML-based precition model rather than z-scores to compare and contrast.
+Limited data causes the predictions to be less accurate, this could most likely be the case for not only ML models but also for calculation estimations like z-scores. 
 
 ---
 ## Author  
