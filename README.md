@@ -44,7 +44,7 @@ However, at the Abu Dhabi GP, the following week, the top 3 was as follows:
  2. Piastri
  3. Norris, where he won the title
 
---
+
 ## Evaluation
 Looking at the results of the overall season, I could argue that the z-score was not so far off, since this seasons top 3 were in my predicted top 5 list. Regardless of Norris not ranking in top 3 during the Qatar GP, the final 3 of this season had a place in my ranking list. Hamilton and Russell also were not far down the actual rankings of this season, where Russell ranked 4th and Hamilton 6th in the championship.  
 
