@@ -13,7 +13,7 @@ Model can be improved further with supplemental data to compare how z-score esti
 
 ---
 ## Tools  
-Python • pandas • fastf1 API • Jupyter
+Python • pandas • fastf1 API • Jupyter • VSCode
 
 ---
 ## Notebooks
