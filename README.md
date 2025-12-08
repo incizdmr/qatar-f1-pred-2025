@@ -33,5 +33,12 @@ According to the model, the strongest projected performers are:
 5. George Russell
 
 ---
+## Results after Qatar 25 GP 
+Qatar 2025 GP ended with top 3 being:
+ 1. Piastri
+ 2. Verstappen
+ 3. Sainz (not in my list of top 3)
+
+---
 ## Author  
 **Inci Ozdemir**  
