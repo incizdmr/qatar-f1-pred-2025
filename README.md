@@ -38,6 +38,7 @@ Qatar 2025 GP ended with top 3 being:
  1. Piastri
  2. Verstappen
  3. Sainz (not in my list of top 3)
+## Season Outlook
 However, at the Abu Dhabi GP, the following week, the top 3 was as follows:
  1. Verstappen
  2. Piastri
